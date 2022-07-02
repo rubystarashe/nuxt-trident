@@ -1,13 +1,13 @@
 {
   "name": "nuxt-trident",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "bin": {
-    "nuxt-trident": "bin/nuxt-trident"
+    "nuxt-trident": "bin/nuxt-trident.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nuxt-trident"
   },
   "repository": {
     "type": "git",
